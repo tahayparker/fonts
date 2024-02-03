@@ -1,0 +1,1 @@
+find . -name '*.ttf' -exec mv {} /workspaces/fonts/TPFonts/ \;
